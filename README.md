@@ -6,7 +6,7 @@ hi im Anuja Jayasinghe
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="anuja-jayasinghe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuja-jayasinghe" alt="anuja-jayasinghe" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/anujajayasinhe" target="blank"><img src="https://img.shields.io/twitter/follow/anujajayasinhe?logo=twitter&style=for-the-badge" alt="anujajayasinhe" /></a> </p>
 
