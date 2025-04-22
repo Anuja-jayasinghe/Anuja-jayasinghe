@@ -1,3 +1,6 @@
+![My Photo](profileBanner.png)
+
+
 <h1 align="center">Hi 👋, I'm Anuja Jayasinghe</h1>
 <h3 align="center">Software Engineering student at the <b><a href="https://www.westminster.ac.uk" target="_blank">University of Westminster</a></b></h3>
 
