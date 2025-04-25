@@ -43,13 +43,22 @@
 ![CircuitVerse](https://img.shields.io/badge/-CircuitVerse-000000?style=flat&logo=circuitverse)
 
 <div align="center">
-  <h2 align="center"><img src="Assets/collaborate.png" alt="collaborate Icon" width="30" height="30"/> Collaboration</h2>
+  <h2 align="center"><img src="Assets/collaborate.png" alt="collaborate Icon" width="30" height="30"/>   &nbspCollaboration</h2>
   <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.
 </div>
 <br><br>
+<div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anuja-jayasinghe&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuja-jayasinghe&theme=react&line_height=40"/>
+    </a>
+</div
 
+<br><br>
 
-<h2 align="center"><img src="Assets/link.png" alt="Link Icon" width="30" height="30"/>Let's Connect</h2>
+<h2 align="center"><img src="Assets/link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/anuja-jayasinghe" target="blank"><img align="center" src="Assets/linkedin.png" alt="anuja jayasinghe" height="30" width="40" /></a>&nbsp
