@@ -53,9 +53,9 @@
 <br><br>
 
 
-<h2 align="center"><img src="Assets/Link.png" alt="Link Icon" width="25" height="25"/> &nbsp;Let's Connect</h2>
+<h2 align="center"><img src="Assets/Link.png" alt="Link Icon" width="30" height="30"/>Let's Connect</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center">
   <a href="https://linkedin.com/in/anuja-jayasinghe" target="_blank">
     <img src="Assets/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
