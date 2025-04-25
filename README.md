@@ -52,6 +52,7 @@
 <br><br>
 
 
+<<<<<<< Updated upstream
 <h2 align="center"><img src="Assets/Link.png" alt="Link Icon" width="25" height="25"/>  Let's Connect</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -72,5 +73,27 @@
   </a>
   <a href="https://www.facebook.com/anuja.jayasinghe.75" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
+=======
+<h2 align="center"><img src="Assets/link.png" alt="Link Icon" width="30" height="30"/>Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/anuja-jayasinghe" >
+    <img src="Assets/linkedin.png" alt="LinkedIn" height="30" width="30"/>
+  </a>
+  <a href="mailto:anujajayasinhe@gmail.com" >
+    <img src="Assets/mail.png" alt="Gmail" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/anujajayasinhe" >
+    <img align="center" src="Assets/twitter.png" alt="anujajayasinhe" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/anu.ja_j" >
+    <img src="Assets/instagram.png" alt="Instagram" height="30" width="30" />
+  </a>
+  <a href="https://discordapp.com/users/758830991691046933/" >
+    <img src="Assets/discord.png" alt="Discord" height="30" width="30" />
+  </a>
+  <a href="https://www.facebook.com/anuja.jayasinghe.75" >
+    <img src="Assets/facebook.png" alt="Facebook" height="30" width="30" />
+>>>>>>> Stashed changes
   </a>
 </div>
