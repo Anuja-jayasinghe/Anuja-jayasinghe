@@ -1,49 +1,76 @@
-![My Photo](profileBanner.png)
+![yay](Assets/Github-Intro.gif)
 
-
-<h1 align="center">Hi 👋, I'm Anuja Jayasinghe</h1>
-<h3 align="center">Software Engineering student at the <b><a href="https://www.westminster.ac.uk" target="_blank">University of Westminster</a></b></h3>
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="anuja-jayasinghe" /> </p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/anuja-jayasinghe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anuja%20Jayasinghe-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Anuja Jayasinghe" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/anuja-jay" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&linear-gradient=45deg,black+50%,yellow+50%)" alt="Profile Views" />
   </a>
-</p>
+  <a href="https://www.westminster.ac.uk/" target="_blank">
+    <img src="Assets/uniName.svg" alt="University of Westminster" width="250" height="auto"/>
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Java**
+<h2 align="center">🛠️ My Tech Stack</h2>
+<img src="Assets/GIFs/VS-code.gif" alt="VS Code gif" align="right" width="200" height="auto"/>
 
-- 📫 How to reach me **anujajayasinhe@gmail.com**
 
-- ⚡ Fun fact **I love to code but still learning**
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+
+**Frameworks & Libraries**  
+![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=openjdk)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=flat&logo=framer)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor)
+
+**IDEs & Editors**  
+![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellijidea)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
+
+**Design**  
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![draw.io](https://img.shields.io/badge/-draw.io-000000?style=flat&logo=diagramsdotnet)
+![CircuitVerse](https://img.shields.io/badge/-CircuitVerse-000000?style=flat&logo=circuitverse)
 
 <div align="center">
-    🤝 Collaboration
-    <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.</p>
+  <h2 align="center"><img src="Assets/collaborate.png" alt="collaborate Icon" width="30" height="30"/> Collaboration</h2>
+  <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.
 </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/anujajayasinhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anujajayasinhe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuja-jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuja jayasinghe" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anuja.jayasinghe.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuja jayasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/anu.ja_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu.ja_j" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/758840991691046933/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="758840991691046933" height="30" width="40" /></a>
-</p>
+<br><br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-    <a href="https://www.arduino.cc/" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+
+<h2 align="center"><img src="Assets/Link.png" alt="Link Icon" width="25" height="25"/>  Let's Connect</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://linkedin.com/in/anuja-jayasinghe" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuja-jayasinghe" height="30" width="40" />
+  </a>
+  <a href="mailto:anujajayasinhe@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/anujajayasinhe" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anujajayasinhe" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/anu.ja_j" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://discordapp.com/users/758840991691046933/" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/anuja.jayasinghe.75" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
+  </a>
+</div>
