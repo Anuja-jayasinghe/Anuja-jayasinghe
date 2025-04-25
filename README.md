@@ -1,9 +1,10 @@
 ![yay](Assets/Github-Intro.gif)
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+ 
+<div align="left">
   <a href="https://github.com/anuja-jay" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&linear-gradient=45deg,black+50%,yellow+50%)" alt="Profile Views" />
   </a>
+  <br>
   <a href="https://www.westminster.ac.uk/" target="_blank">
     <img src="Assets/uniName.svg" alt="University of Westminster" width="250" height="auto"/>
   </a>
@@ -52,25 +53,25 @@
 <br><br>
 
 
-<h2 align="center"><img src="Assets/Link.png" alt="Link Icon" width="25" height="25"/>  Let's Connect</h2>
+<h2 align="center"><img src="Assets/Link.png" alt="Link Icon" width="25" height="25"/> &nbsp;Let's Connect</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://linkedin.com/in/anuja-jayasinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuja-jayasinghe" height="30" width="40" />
+    <img src="Assets/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:anujajayasinhe@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+    <img src="Assets/mail.png" alt="Gmail" height="30" width="30" />
   </a>
   <a href="https://twitter.com/anujajayasinhe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anujajayasinhe" height="30" width="40" />
+    <img align="center" src="Assets/twitter.png" alt="anujajayasinhe" height="30" width="30" />
   </a>
   <a href="https://instagram.com/anu.ja_j" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="40" />
+    <img src="Assets/instagram.png" alt="Instagram" height="30" width="30" />
   </a>
-  <a href="https://discordapp.com/users/758840991691046933/" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="30" width="40" />
+  <a href="https://discordapp.com/users/758830991691046933/" target="_blank">
+    <img src="Assets/discord.png" alt="Discord" height="30" width="30" />
   </a>
   <a href="https://www.facebook.com/anuja.jayasinghe.75" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
+    <img src="Assets/facebook.png" alt="Facebook" height="30" width="30" />
   </a>
 </div>
