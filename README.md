@@ -1,14 +1,13 @@
 [<img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/Github-Intro.gif" alt="👋 Hi there! I'm Anuja Jayasinghe" title="👋 Hi there! I'm Anuja Jayasinghe" />](https://Anujajay.com/)
 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"><a href="https://github.com/anuja-jay" target="_blank"><img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&linear-gradient=45deg,black+50%,yellow+50%)" alt="Visitors" /></a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <a href="https://github.com/anuja-jayasinghe" target="_blank"><img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&label=Visitors&linear-gradient=45deg,black+50%,yellow+50%" alt="Visitors"/></a>
   <a href="https://www.westminster.ac.uk/" target="_blank">
-    <img src="Assets/uniName.svg" alt="University of Westminster" width="250" height="auto"/>
+    <img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/uniName.svg" alt="University of Westminster" width="250" height="auto"/>
   </a>
 </div>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
-<img src="Assets/GIFs/VS-code.gif" alt="VS Code gif" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/GIFs/VS-code.gif" alt="VS Code gif" align="right" width="200" height="auto"/>
 
 
 **Languages**  
@@ -45,7 +44,7 @@
 ![CircuitVerse](https://img.shields.io/badge/-CircuitVerse-000000?style=flat&logo=circuitverse)
 
 <div align="center">
-  <h2 align="center"><img src="Assets/collaborate.png" alt="collaborate Icon" width="30" height="30"/>   &nbspCollaboration</h2>
+  <h2 align="center"><img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/collaborate.png" alt="collaborate Icon" width="30" height="30"/>   &nbspCollaboration</h2>
   <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.
 </div>
 <br><br>
@@ -60,7 +59,7 @@
 
 <br><br>
 
-<h2 align="center"><img src="Assets/link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/anuja-jayasinghe" target="blank"><img align="center" src="Assets/linkedin.png" alt="anuja jayasinghe" height="30" width="40" /></a>&nbsp
