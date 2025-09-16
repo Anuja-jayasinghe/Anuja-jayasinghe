@@ -1,6 +1,7 @@
-![yay](Assets/Github-Intro.gif)
+[<img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/Github-Intro.gif" alt="👋 Hi there! I'm Anuja Jayasinghe" title="👋 Hi there! I'm Anuja Jayasinghe" />](https://Anujajay.com/)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"><a href="https://github.com/anuja-jay" target="_blank"><img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&linear-gradient=45deg,black+50%,yellow+50%)" alt="Profile Views" /></a>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"><a href="https://github.com/anuja-jay" target="_blank"><img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&linear-gradient=45deg,black+50%,yellow+50%)" alt="Visitors" /></a>
   <a href="https://www.westminster.ac.uk/" target="_blank">
     <img src="Assets/uniName.svg" alt="University of Westminster" width="250" height="auto"/>
   </a>
