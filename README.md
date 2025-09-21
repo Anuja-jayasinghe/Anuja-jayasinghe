@@ -44,7 +44,7 @@
 ![CircuitVerse](https://img.shields.io/badge/-CircuitVerse-000000?style=flat&logo=circuitverse)
 
 <div align="center">
-  <h2 align="center"><img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/collaborate.png" alt="collaborate Icon" width="30" height="30"/>   &nbspCollaboration</h2>
+  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">    &nbspCollaboration</h2>
   <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.
 </div>
 <br><br>
