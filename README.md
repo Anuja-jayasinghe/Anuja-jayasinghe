@@ -1,4 +1,7 @@
-[<img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/Github-Intro.gif" alt="👋 Hi there! I'm Anuja Jayasinghe" title="👋 Hi there! I'm Anuja Jayasinghe" />](https://Anujajay.com/)
+[<picture>
+  <source srcset="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/Github-Intro.webp" type="image/webp">
+  <img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/GIFs/Github-Intro.gif" alt="👋 Hi there! I'm Anuja Jayasinghe" title="👋 Hi there! I'm Anuja Jayasinghe" />
+</picture>](https://Anujajay.com/)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <a href="https://github.com/anuja-jayasinghe" target="_blank"><img src="https://komarev.com/ghpvc/?username=anuja-jayasinghe&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&label=Visitors&linear-gradient=45deg,black+50%,yellow+50%" alt="Visitors"/></a>
   <a href="https://www.westminster.ac.uk/" target="_blank">
@@ -58,7 +61,7 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
 
-<p align="center">
+<p align="center">https://github.com/anuja-jayasinghe/
 <a href="https://linkedin.com/in/anuja-jayasinghe" target="blank"><img align="center" src="Assets/linkedin.png" alt="anuja jayasinghe" height="30" width="40" /></a>&nbsp
 <a href="mailto:anujajayasinhe@gmail.com" target="blank"><img align="center" src="Assets/mail.png" alt="anuja jayasinghe" height="40" width="40" /></a>&nbsp
 <a href="https://twitter.com/anujajayasinhe" target="blank"><img align="center" src="Assets/twitter.png" alt="anujajayasinhe" height="40" width="40" /></a>&nbsp
