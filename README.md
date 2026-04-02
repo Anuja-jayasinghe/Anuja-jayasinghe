@@ -58,7 +58,7 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
 
-<p align="center">https://github.com/anuja-jayasinghe/
+<p 
 <a href="https://linkedin.com/in/anuja-jayasinghe" target="blank"><img align="center" src="Assets/linkedin.png" alt="anuja jayasinghe" height="30" width="40" /></a>&nbsp
 <a href="mailto:anujajayasinhe@gmail.com" target="blank"><img align="center" src="Assets/mail.png" alt="anuja jayasinghe" height="40" width="40" /></a>&nbsp
 <a href="https://twitter.com/anujajayasinhe" target="blank"><img align="center" src="Assets/twitter.png" alt="anujajayasinhe" height="40" width="40" /></a>&nbsp
