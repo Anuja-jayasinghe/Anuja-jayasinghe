@@ -54,7 +54,7 @@
     </a>
 </div
 
-<br><br>
+<br><br><br>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Anuja-jayasinghe/Anuja-jayasinghe/main/Assets/link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
 
